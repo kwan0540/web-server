@@ -1,0 +1,9 @@
+h1 {
+    color: gray;
+}
+
+iframe {
+    margin: 0 auto;
+    width: 100%;
+    height: 800px;
+}
